@@ -1,5 +1,6 @@
 # Development-of-GPS-System
 # Development of GPS System for Surface Mining
+<?xml version="1.0" encoding="utf-8"?>
 
 <?xml version="1.0" encoding="utf-8"?>
     android:layout_width="match_parent"
